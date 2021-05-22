@@ -1,6 +1,10 @@
 # dotnet-vaquinha-tests
 Projeto Base para Testes - .Net Core  
 
+## Aluno: Raphael Campos
+Projeto para exemplo de uso de testes em DotNet Core 3.1
+Uso de testes de unidade, integração e criação de um exemplo com TDD.
+
 ## Digital Innovation One
 
 [Clique aqui para se inscrever na Digital Innovation One](https://digitalinnovation.one/sign-up?ref=H395IYS4Z6)  
